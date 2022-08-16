@@ -1,4 +1,4 @@
-#conexión a la base de datos
+              #conexión a la base de datos
 
 
 #En la siguiente carpeta puedes encontrar nuestra base de datos 
